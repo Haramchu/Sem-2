@@ -1,0 +1,43 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8515</DEVICE>
+ <WORKING_DIR>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:\Avr studio\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:\Avr studio\AvrAssembler2\Appnotes\m8515def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <START><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.asm</FILE><LINE>17</LINE></START>
+  <Set_harga><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.asm</FILE><LINE>24</LINE></Set_harga>
+  <Main><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.asm</FILE><LINE>35</LINE></Main>
+  <Antrian><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.asm</FILE><LINE>91</LINE></Antrian>
+  <Check><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.asm</FILE><LINE>41</LINE></Check>
+  <Kelipatan_enam><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.asm</FILE><LINE>58</LINE></Kelipatan_enam>
+  <Kelipatan_tiga><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.asm</FILE><LINE>50</LINE></Kelipatan_tiga>
+  <Paket_B><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.asm</FILE><LINE>73</LINE></Paket_B>
+  <Paket_D><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.asm</FILE><LINE>85</LINE></Paket_D>
+  <Paket_C><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.asm</FILE><LINE>79</LINE></Paket_C>
+  <Paket_A><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.asm</FILE><LINE>66</LINE></Paket_A>
+  <Calculate><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.asm</FILE><LINE>145</LINE></Calculate>
+  <Cek_harga><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.asm</FILE><LINE>97</LINE></Cek_harga>
+  <Cek_enam><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.asm</FILE><LINE>113</LINE></Cek_enam>
+  <Cek_tiga><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.asm</FILE><LINE>106</LINE></Cek_tiga>
+  <Tambah_Paket_B><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.asm</FILE><LINE>127</LINE></Tambah_Paket_B>
+  <Tambah_Paket_D><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.asm</FILE><LINE>139</LINE></Tambah_Paket_D>
+  <Tambah_Paket_C><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.asm</FILE><LINE>133</LINE></Tambah_Paket_C>
+  <Tambah_Paket_A><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.asm</FILE><LINE>121</LINE></Tambah_Paket_A>
+  <forever><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\3\Lab4-3_TOP_B_ClementSamuelMarly_2206082114.asm</FILE><LINE>151</LINE></forever>
+ </LABELS>
+</ASSEMBLER_INFO>

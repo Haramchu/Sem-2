@@ -1,0 +1,46 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8515</DEVICE>
+ <WORKING_DIR>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8515def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>36</LINE></MAIN>
+  <INTERRUPT_LIBUR><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>181</LINE></INTERRUPT_LIBUR>
+  <INTERRUPT_DEFENSE><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>186</LINE></INTERRUPT_DEFENSE>
+  <INTERRUPT_SWITCH_JADWAL><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>168</LINE></INTERRUPT_SWITCH_JADWAL>
+  <INIT_STACK><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>39</LINE></INIT_STACK>
+  <INIT_LED><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>45</LINE></INIT_LED>
+  <INIT_EXT_INTERRUPT><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>51</LINE></INIT_EXT_INTERRUPT>
+  <INIT_INT_INTERRUPT><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>57</LINE></INIT_INT_INTERRUPT>
+  <CHECK_STATUS><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>68</LINE></CHECK_STATUS>
+  <DEFENSE><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>141</LINE></DEFENSE>
+  <CHECK_JADWAL><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>81</LINE></CHECK_JADWAL>
+  <NORMAL><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>77</LINE></NORMAL>
+  <LIBUR><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>154</LINE></LIBUR>
+  <JADWAL_02><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>98</LINE></JADWAL_02>
+  <JADWAL_01><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>87</LINE></JADWAL_01>
+  <JADWAL_03><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>109</LINE></JADWAL_03>
+  <PERSIAPAN_JADWAL_01><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>120</LINE></PERSIAPAN_JADWAL_01>
+  <DELAY><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>196</LINE></DELAY>
+  <PERSIAPAN_JADWAL_02><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>127</LINE></PERSIAPAN_JADWAL_02>
+  <PERSIAPAN_JADWAL_03><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>134</LINE></PERSIAPAN_JADWAL_03>
+  <EXIT_INTERRUPT><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>193</LINE></EXIT_INTERRUPT>
+  <RESET><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>177</LINE></RESET>
+  <L2><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\7\Lab7_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>206</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>

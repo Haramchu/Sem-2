@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.12</VERSION>
+ <DEVICE>ATmega8515</DEVICE>
+ <WORKING_DIR>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\6</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\6\Lab6_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m8515def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\6\Lab6_TOP_B_ClementSamuelMarly_2206082114_Genap.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\6\Lab6_TOP_B_ClementSamuelMarly_2206082114_Genap.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\6\Lab6_TOP_B_ClementSamuelMarly_2206082114_Genap.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\6\Lab6_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>31</LINE></MAIN>
+  <GANTI_LANE><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\6\Lab6_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>129</LINE></GANTI_LANE>
+  <GANTI_KECEPATAN><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\6\Lab6_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>136</LINE></GANTI_KECEPATAN>
+  <INIT_STACK><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\6\Lab6_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>33</LINE></INIT_STACK>
+  <INIT_LED><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\6\Lab6_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>39</LINE></INIT_LED>
+  <INIT_INTERRUPT><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\6\Lab6_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>45</LINE></INIT_INTERRUPT>
+  <LED_VIP_LANE><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\6\Lab6_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>52</LINE></LED_VIP_LANE>
+  <DELAY><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\6\Lab6_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>121</LINE></DELAY>
+  <LED_REGULAR_LANE><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\6\Lab6_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>77</LINE></LED_REGULAR_LANE>
+  <DELAY_02><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\6\Lab6_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>176</LINE></DELAY_02>
+  <DELAY_01><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\6\Lab6_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>158</LINE></DELAY_01>
+  <RESET_LANE><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\6\Lab6_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>142</LINE></RESET_LANE>
+  <CHANGE_LANE><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\6\Lab6_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>146</LINE></CHANGE_LANE>
+  <RESET_KECEPATAN><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\6\Lab6_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>150</LINE></RESET_KECEPATAN>
+  <CHANGE_KECEPATAN><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\6\Lab6_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>154</LINE></CHANGE_KECEPATAN>
+  <L1><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\6\Lab6_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>168</LINE></L1>
+  <L2><FILE>C:\Users\cleme\OneDrive\Documents\S1\Sem 2\DDAK\6\Lab6_TOP_B_ClementSamuelMarly_2206082114_Genap.asm</FILE><LINE>187</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>

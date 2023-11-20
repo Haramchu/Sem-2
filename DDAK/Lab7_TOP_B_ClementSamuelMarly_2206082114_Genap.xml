@@ -1,0 +1,294 @@
+<?xml version="1.0"?>
+<HAPSIM>
+   <General>
+      <Build>2005</Build>
+      <Position>
+         <top>508</top>
+         <bottom>1004</bottom>
+         <left>829</left>
+         <right>1582</right>
+      </Position>
+      <StayOnTop>0</StayOnTop>
+      <Target>ATMega128</Target>
+   </General>
+   <Views>
+      <Buttons>
+         <Name>Buttons1</Name>
+         <Position>
+            <top>52</top>
+            <left>496</left>
+         </Position>
+         <Config index="0">
+            <Name>LIBUR</Name>
+            <PortPin>
+               <Port>PORTD</Port>
+               <Bit>2</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="1">
+            <Name>DEFENSE</Name>
+            <PortPin>
+               <Port>PORTD</Port>
+               <Bit>3</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="2">
+            <Name>[INACTIVE]</Name>
+            <PortPin>
+               <Port>N.C.</Port>
+               <Bit>6</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="3">
+            <Name>[INACTIVE]</Name>
+            <PortPin>
+               <Port>N.C.</Port>
+               <Bit>7</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <TrinaryGroupEnable index="0">0</TrinaryGroupEnable>
+         <TrinaryGroupEnable index="1">0</TrinaryGroupEnable>
+      </Buttons>
+      <LEDs>
+         <Name>LEDs1</Name>
+         <Position>
+            <top>26</top>
+            <left>26</left>
+         </Position>
+         <Config index="0">
+            <Color>Red</Color>
+            <Name>DEFENSE</Name>
+            <PortPin>
+               <Port>PORTA</Port>
+               <Bit>0</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="1">
+            <Color>Red</Color>
+            <Name>DEFENSE</Name>
+            <PortPin>
+               <Port>PORTA</Port>
+               <Bit>1</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="2">
+            <Color>Red</Color>
+            <Name>A-WORK</Name>
+            <PortPin>
+               <Port>PORTA</Port>
+               <Bit>2</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="3">
+            <Color>Yellow</Color>
+            <Name>A-PREP</Name>
+            <PortPin>
+               <Port>PORTA</Port>
+               <Bit>3</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="4">
+            <Color>Blue</Color>
+            <Name>A-REST</Name>
+            <PortPin>
+               <Port>PORTA</Port>
+               <Bit>4</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="5">
+            <Color>Red</Color>
+            <Name>DEFENSE</Name>
+            <PortPin>
+               <Port>PORTA</Port>
+               <Bit>5</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="6">
+            <Color>Red</Color>
+            <Name>DEFENSE</Name>
+            <PortPin>
+               <Port>PORTA</Port>
+               <Bit>6</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="7">
+            <Color>Red</Color>
+            <Name>[INACTIVE]</Name>
+            <PortPin>
+               <Port>PORTA</Port>
+               <Bit>7</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+      </LEDs>
+      <LEDs>
+         <Name>LEDs2</Name>
+         <Position>
+            <top>26</top>
+            <left>187</left>
+         </Position>
+         <Config index="0">
+            <Color>Red</Color>
+            <Name>DEFENSE</Name>
+            <PortPin>
+               <Port>PORTB</Port>
+               <Bit>0</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="1">
+            <Color>Red</Color>
+            <Name>DEFENSE</Name>
+            <PortPin>
+               <Port>PORTB</Port>
+               <Bit>1</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="2">
+            <Color>Red</Color>
+            <Name>B-WORK</Name>
+            <PortPin>
+               <Port>PORTB</Port>
+               <Bit>2</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="3">
+            <Color>Yellow</Color>
+            <Name>B-PREP</Name>
+            <PortPin>
+               <Port>PORTB</Port>
+               <Bit>3</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="4">
+            <Color>Blue</Color>
+            <Name>B-REST</Name>
+            <PortPin>
+               <Port>PORTB</Port>
+               <Bit>4</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="5">
+            <Color>Red</Color>
+            <Name>DEFENSE</Name>
+            <PortPin>
+               <Port>PORTB</Port>
+               <Bit>5</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="6">
+            <Color>Red</Color>
+            <Name>DEFENSE</Name>
+            <PortPin>
+               <Port>PORTB</Port>
+               <Bit>6</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="7">
+            <Color>Red</Color>
+            <Name>[INACTIVE]</Name>
+            <PortPin>
+               <Port>PORTB</Port>
+               <Bit>7</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+      </LEDs>
+      <LEDs>
+         <Name>LEDs3</Name>
+         <Position>
+            <top>27</top>
+            <left>346</left>
+         </Position>
+         <Config index="0">
+            <Color>Red</Color>
+            <Name>DEFENSE</Name>
+            <PortPin>
+               <Port>PORTC</Port>
+               <Bit>0</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="1">
+            <Color>Red</Color>
+            <Name>DEFENSE</Name>
+            <PortPin>
+               <Port>PORTC</Port>
+               <Bit>1</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="2">
+            <Color>Red</Color>
+            <Name>C-WORK</Name>
+            <PortPin>
+               <Port>PORTC</Port>
+               <Bit>2</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="3">
+            <Color>Yellow</Color>
+            <Name>C-PREP</Name>
+            <PortPin>
+               <Port>PORTC</Port>
+               <Bit>3</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="4">
+            <Color>Blue</Color>
+            <Name>C-REST</Name>
+            <PortPin>
+               <Port>PORTC</Port>
+               <Bit>4</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="5">
+            <Color>Red</Color>
+            <Name>DEFENSE</Name>
+            <PortPin>
+               <Port>PORTC</Port>
+               <Bit>5</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="6">
+            <Color>Red</Color>
+            <Name>DEFENSE</Name>
+            <PortPin>
+               <Port>PORTC</Port>
+               <Bit>6</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+         <Config index="7">
+            <Color>Red</Color>
+            <Name>[INACTIVE]</Name>
+            <PortPin>
+               <Port>PORTC</Port>
+               <Bit>7</Bit>
+            </PortPin>
+            <Invert>0</Invert>
+         </Config>
+      </LEDs>
+   </Views>
+</HAPSIM>
